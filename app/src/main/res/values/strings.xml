@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Zest 19 Admin</string>
+    <string name="login">Log In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="schedule">Schedule</string>
+    <string name="championship">Championship</string>
+    <string name="update">Update</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="add_focused_match">Add Focused Match</string>
+    <string name="live_match">Live Match</string>
+    <string name="admin_panel">Admin Panel</string>
+
+    <string name="divider_bullet">•</string>
+
+    <string name="hockey">HOCKEY</string>
+    <string name="kabaddi">KABADDI</string>
+    <string name="kho_kho">KHO-KHO</string>
+    <string name="football">FOOTBALL</string>
+    <string name="handball">HANDBALL</string>
+    <string name="basket_ball">BASKET BALL</string>
+    <string name="volley_ball">VOLLEY BALL</string>
+    <string name="badminton">BADMINTON</string>
+    <string name="lawn_tennis">LAWN TENNIS</string>
+    <string name="table_tennis">TABLE TENNIS</string>
+    <string name="ball_badminton">BALL BADMINTON</string>
+    <string name="base_ball">BASE BALL</string>
+    <string name="cricket">CRICKET</string>
+    <string name="box_cricket">BOX CRICKET</string>
+    <string name="mix_cricket">MIX CRICKET</string>
+    <string name="events">EVENTS</string>
+    <string name="title_activity_schedule">Schedule</string>
+
+    <string-array name="match_type">
+        <item>Select Match Type</item>
+        <item>League Match</item>
+        <item>Semi Final</item>
+        <item>Final</item>
+    </string-array>
+
+    <string-array name="game_type">
+        <item>Select Game Type</item>
+        <item>Basketball (Boys)</item>
+        <item>Basketball (Girls)</item>
+        <item>Baseball (Boys)</item>
+        <item>Baseball (Girls)</item>
+        <item>Badminton (Boys)</item>
+        <item>Badminton (Girls)</item>
+        <item>Ball- Badminton (Boys)</item>
+        <item>Ball- Badminton (Girls)</item>
+        <item>Cricket (Boys)</item>
+        <item>Cricket (Girls)</item>
+        <item>Box Cricket</item>
+        <item>Mix Cricket</item>
+        <item>Kabaddi (Boys)</item>
+        <item>Kabaddi (Girls)</item>
+        <item>Kho-Kho (Boys)</item>
+        <item>Kho-Kho (Girls)</item>
+        <item>Hockey (Boys)</item>
+        <item>Hockey (Girls)</item>
+        <item>Lawn Tennis (Boys)</item>
+        <item>Lawn Tennis (Girls)</item>
+        <item>Handball (Boys)</item>
+        <item>Handball (Girls)</item>
+        <item>Football (Boys)</item>
+        <item>Football (Girls)</item>
+        <item>Volleyball (Boys)</item>
+        <item>Volleyball (Girls)</item>
+        <item>Table Tennis (Boys)</item>
+        <item>Table Tennis (Girls)</item>
+    </string-array>
+
+    <string-array name="place">
+        <item>Select Place</item>
+        <item>COEP Ground, Shivaji Nagar, Pune</item>
+        <item>Lawn Tennis courts in Pune University</item>
+        <item>Sanmitra Sangh, Kothrud</item>
+        <item>COEP College, Badminton Court, Pune</item>
+    </string-array>
+    <string name="title_activity_focused">Focused</string>
+    <string name="title_activity_sign_up">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>

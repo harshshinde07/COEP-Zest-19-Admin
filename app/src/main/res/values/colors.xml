@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="fragment_1">#006064</color>
+    <color name="fragment_2">#7b1fa2</color>
+    <color name="fragment_3">#c2185b</color>
+    <color name="fragment_4">#303f9f</color>
+
+    <color name="greyPrimary">#DE000000</color>
+    <color name="greySecondary">#8B000000</color>
+    <color name="greyDisabled">#61000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
